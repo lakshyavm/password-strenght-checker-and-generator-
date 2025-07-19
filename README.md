@@ -57,13 +57,9 @@ This is a simple, human-friendly, *console-based Password Vault and Password Str
 Pick an option (1-6): 
 
 
-## Contributing
+-----------------------------------------
 
-Pull requests and improvements welcome! Please open an issue for bugs or suggestions.
 
-## License
-
-MIT License (see LICENSE file)
 
 *Enjoy strong, safe passwords!*
 
